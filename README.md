@@ -6,7 +6,7 @@ Installation:
 3) npm start
 
 ----------------------------------------------------------------------------------------------------
- The task Completed:
+ Following are the tasks completed
 ----------------------------------------------------------------------------------------------------
 1) Login screen is designed. 
    Used "https://jsonplaceholder.typicode.com/users" service to bring users. Validating users from this 
