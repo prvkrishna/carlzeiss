@@ -1,0 +1,31 @@
+.user-table{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    border: solid 1px rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(237, 244, 248) !important;
+    box-shadow: inset 0 0 10px #1c3c44;
+    
+  }
+
+  .table-layout > table {
+    width: 100%;
+  }
+  .table-layout >table > thead {
+    background-color: #91c0d4;
+    font-weight: bold;
+  }
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    
+  }
+  th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
